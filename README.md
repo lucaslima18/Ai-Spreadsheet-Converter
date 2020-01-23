@@ -3,14 +3,14 @@ Um Script para converter planilhas em treinamento de inteligência artificial no
 
 Para melhor utilização deste script, você deverá ter instalado em sua máquina o python versão 3.8 ou superior;
 
-1- Requisitos:\n
-	Repository uuid do seu repositório no bothub;\n
+1- Requisitos:<br>
+	Repository uuid do seu repositório no bothub;<br>
 	Authorization token da sua conta no bothub; 
     
 
 
-2- Uso:\n
-    1- Para utilizar este repositório, é necessário ter uma planilha no modelo (.csv) separado por vírgula, na qual a primeira linha será <strong>text, intent</strong>
+2- Uso:<br>
+    1- Para utilizar este repositório, é necessário ter uma planilha no modelo (.csv) separado por vírgula, na qual a primeira linha será <strong>text, intent</strong> <br>
     e as demais terão como primeiro argumento o texto e segundo a intenção no qual ele deverá ser implementado, como no exemplo a seguir:
     
         text, intent
