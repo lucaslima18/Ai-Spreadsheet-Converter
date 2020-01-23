@@ -32,7 +32,8 @@ def categorize():
 
 print("#####WELCOME TO AI SPREADSHEET CONVERTER#####")
 
-if SERVICE_TYPE == "tests":
+if SERVICE_TYPE == "test":
+    print("starting the post test on your bothub repository...\n")
     insertTests()
 
 elif SERVICE_TYPE == "categorize":
