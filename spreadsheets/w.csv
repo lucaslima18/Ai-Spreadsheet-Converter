@@ -1,0 +1,23 @@
+text,intent
+onde fazia canal,virtualcard
+carteira,virtualcard
+cartãp,virtualcard
+quero saber se meu plano foi cadastrado,planstatus
+quero saber se o plano que fiz com meu corretor já está ativo,planstatus
+quero saber se meu plano está ativo,planstatus
+saber se posso usar,planstatus
+tenho carências,carency
+boleto atrazado,redue
+qual a minha carência?,carency
+Nota Fiscal,invoice
+sobre urgência,urgency
+Quero saber quando minha carteira do plano chega?,virtualcard
+sobre cobertura,coverage
+contratar,hire
+contratar um plano,hire
+contratação,hire
+como faço para me credenciar ao plano?,accreditation
+carteira do plano,virtualcard
+baixar o App,app
+como acessar ao App,app
+como faz para cancelar o plano,app
