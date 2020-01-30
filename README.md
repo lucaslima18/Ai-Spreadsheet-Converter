@@ -1,7 +1,12 @@
 # Ai-Spreadsheet-Converter
-Um Script para converter planilhas em treinamento de inteligência artificial no software bothub.it
+Este script visa a automação de treinamento para datasets de inteligências artificiais da plataforma bothub.it através de planilhas.
 
-Para melhor utilização deste script, você deverá ter instalado em sua máquina o python versão 3.8 ou superior;
+Ela utiliza as API´s V2 da plataforma bothub (https://api.bothub.it/) e (https://nlp.bothub.it/) para automatizar a inserção de testes, exemplos para treino e gerar relatórios de categorização automaticamente, sendo dividido em 3 funcionalidades até o momento:
+	1- Examples: Gera frases de treino no bothub a partir de uma planilha. 
+	2- Tests: Gera frases de testes no bothub a partir de uma planilha.
+	3- Categorize: Categoriza frases de uma planilha e retorna as frases categorizadas para uma análise exploratória de 	       desempenho da inteligência.
+
+Para melhor utilização deste script, você deverá ter instalado em sua máquina o python versão 3.8 ou superior.
 
 1- Requisitos:<br>
 	Repository uuid do seu repositório no bothub;<br>
