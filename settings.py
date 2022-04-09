@@ -21,10 +21,4 @@ else:
     print("This option is not avaliable, please reload and try one of this options:\n")
     print("tests\nexamples\ncategorize")
 
-"""
-Example data:
 
-REPOSITORY_UUID = '82b6aca7-2c78-45ce-aa0f-0828e2a9def5'
-LANGUAGE = 'pt_br'
-AUTH_TOKEN = 'Token 5ef90351e1b8bb19761e98e03773f0d20f3f94de'
-"""
